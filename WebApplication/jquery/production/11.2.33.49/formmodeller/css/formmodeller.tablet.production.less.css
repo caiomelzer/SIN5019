@@ -1,0 +1,17 @@
+@charset "UTF-8";
+.tablet .bz-tabs {
+    overflow-x: hidden;
+}
+.tablet .bz-collapsible__content {
+    min-height: 30px;
+}
+.tablet fieldset {
+    background: transparent;
+}
+.tablet .bz-form-item.ui-state-active, .tablet .bz-container.ui-bizagi-container-selected {
+    background-color: #fafafa;
+    background-image: initial !important;
+    border: 1px solid transparent !important;
+    outline-offset: -1px;
+    outline: 1px solid #91ad1f !important;
+}

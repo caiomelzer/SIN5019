@@ -1,0 +1,32 @@
+/*********************************************************************************
+    GENERAL
+*********************************************************************************/*,:after,:before{-webkit-box-sizing:border-box;box-sizing:border-box}body,html{background:#fff;font-family:Open Sans,Geneva,Arial,sans-serif;height:100%;margin:0;padding:0;width:100%}
+/**
+ *
+ * Buttons
+ *
+ */.btn-basic{background-color:#02645e;border:0;border-radius:4px;color:#fff;cursor:pointer;font-size:14px;padding:8px 16px}
+/*********************************************************************************
+    HELPERS
+*********************************************************************************/
+/**
+ *
+ * Full center content
+ *
+ */.h-zone-centered-content{-webkit-box-align:center;-ms-flex-align:center;align-items:center;display:-webkit-box;display:-ms-flexbox;display:flex;-webkit-box-pack:center;-ms-flex-pack:center;justify-content:center;height:100%;width:100%}
+/**
+ *
+ * Scrollbar
+ *
+ */::-webkit-scrollbar{-webkit-appearance:none;width:7px}::-webkit-scrollbar-thumb{border-radius:0;background-color:rgba(0,0,0,.5);-webkit-box-shadow:0 0 1px hsla(0,0%,100%,.5);box-shadow:0 0 1px hsla(0,0%,100%,.5)}.h-scroll:hover{overflow:auto}
+/**
+ *
+ * Loading indicator
+ *
+ */.h-loading-indicator{height:16px;width:16px;display:inline-block;border-radius:50%;border:3px solid #d3d3d3;border-color:gray #d3d3d3;-webkit-box-sizing:border-box;box-sizing:border-box;-webkit-animation:loading .9s linear infinite;animation:loading .9s linear infinite;background:#fff}.h-loading-indicator--medium{height:50px;width:50px;-webkit-animation:loading 1.9s linear infinite;animation:loading 1.9s linear infinite}@-webkit-keyframes loading{0%{-webkit-transform:rotate(0deg);transform:rotate(0deg)}to{-webkit-transform:rotate(1turn);transform:rotate(1turn)}}@keyframes loading{0%{-webkit-transform:rotate(0deg);transform:rotate(0deg)}to{-webkit-transform:rotate(1turn);transform:rotate(1turn)}}
+/*********************************************************************************
+    COLORS
+*********************************************************************************/
+/*********************************************************************************
+    IE STANDARDS
+*********************************************************************************/input::-ms-clear{display:none}

@@ -1,0 +1,15 @@
+﻿Installing assembly 'C:\Bizagi\Projects\SIN5019\Scheduler\BizAgi.Scheduler.Services.exe'.
+Affected parameters are:
+   logtoconsole = 
+   name = BizAgiSIN5019SchedulerService
+   assemblypath = C:\Bizagi\Projects\SIN5019\Scheduler\BizAgi.Scheduler.Services.exe
+   logfile = C:\Bizagi\Projects\SIN5019\Scheduler\BizAgi.Scheduler.Services.InstallLog
+Installing service BizAgiSIN5019SchedulerService...
+Service BizAgiSIN5019SchedulerService has been successfully installed.
+Creating EventLog source BizAgiSIN5019SchedulerService in log Application...
+Committing assembly 'C:\Bizagi\Projects\SIN5019\Scheduler\BizAgi.Scheduler.Services.exe'.
+Affected parameters are:
+   logtoconsole = 
+   name = BizAgiSIN5019SchedulerService
+   assemblypath = C:\Bizagi\Projects\SIN5019\Scheduler\BizAgi.Scheduler.Services.exe
+   logfile = C:\Bizagi\Projects\SIN5019\Scheduler\BizAgi.Scheduler.Services.InstallLog
